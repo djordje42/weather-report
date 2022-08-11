@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-report/static/css/main.e60c02f0.chunk.css",
+    "main.js": "/weather-report/static/js/main.f9e0dede.chunk.js",
+    "main.js.map": "/weather-report/static/js/main.f9e0dede.chunk.js.map",
+    "runtime-main.js": "/weather-report/static/js/runtime-main.0baa0d56.js",
+    "runtime-main.js.map": "/weather-report/static/js/runtime-main.0baa0d56.js.map",
+    "static/js/2.40516e99.chunk.js": "/weather-report/static/js/2.40516e99.chunk.js",
+    "static/js/2.40516e99.chunk.js.map": "/weather-report/static/js/2.40516e99.chunk.js.map",
+    "static/js/3.61ee987c.chunk.js": "/weather-report/static/js/3.61ee987c.chunk.js",
+    "static/js/3.61ee987c.chunk.js.map": "/weather-report/static/js/3.61ee987c.chunk.js.map",
+    "index.html": "/weather-report/index.html",
+    "static/css/main.e60c02f0.chunk.css.map": "/weather-report/static/css/main.e60c02f0.chunk.css.map",
+    "static/js/2.40516e99.chunk.js.LICENSE.txt": "/weather-report/static/js/2.40516e99.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-report/static/media/warm-bg.539f3edf.jpg",
+    "static/media/logo.6ce24c58.svg": "/weather-report/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0baa0d56.js",
+    "static/js/2.40516e99.chunk.js",
+    "static/css/main.e60c02f0.chunk.css",
+    "static/js/main.f9e0dede.chunk.js"
+  ]
+}
